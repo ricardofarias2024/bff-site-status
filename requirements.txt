@@ -1,4 +1,8 @@
-flask==3.0.3
-py-zabbix==1.1.7
-python-dotenv==1.0.1
-flask-cors==4.0.1
+python-env
+python-dotenv
+datetime
+schedule
+zabbix-api
+flask
+Flask-Assets
+flask_cors
